@@ -1,0 +1,1 @@
+D:\Proyectos\Sales\Sales\Sales.Mobile\Sales.Mobile.csproj;x64

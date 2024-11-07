@@ -1,0 +1,11 @@
+D:\Proyectos\Sales\Sales\Sales.Shared\bin\Debug\net8.0\Sales.Shared.deps.json
+D:\Proyectos\Sales\Sales\Sales.Shared\bin\Debug\net8.0\Sales.Shared.dll
+D:\Proyectos\Sales\Sales\Sales.Shared\bin\Debug\net8.0\Sales.Shared.pdb
+D:\Proyectos\Sales\Sales\Sales.Shared\obj\Debug\net8.0\Sales.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\Sales\Sales\Sales.Shared\obj\Debug\net8.0\Sales.Shared.AssemblyInfoInputs.cache
+D:\Proyectos\Sales\Sales\Sales.Shared\obj\Debug\net8.0\Sales.Shared.AssemblyInfo.cs
+D:\Proyectos\Sales\Sales\Sales.Shared\obj\Debug\net8.0\Sales.Shared.csproj.CoreCompileInputs.cache
+D:\Proyectos\Sales\Sales\Sales.Shared\obj\Debug\net8.0\Sales.Shared.dll
+D:\Proyectos\Sales\Sales\Sales.Shared\obj\Debug\net8.0\refint\Sales.Shared.dll
+D:\Proyectos\Sales\Sales\Sales.Shared\obj\Debug\net8.0\Sales.Shared.pdb
+D:\Proyectos\Sales\Sales\Sales.Shared\obj\Debug\net8.0\ref\Sales.Shared.dll
