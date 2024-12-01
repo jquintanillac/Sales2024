@@ -1033,3 +1033,13 @@ D:\Proyectos\Sales\Sales\Sales.WEB\obj\Debug\net8.0\Sales.WEB.dll
 D:\Proyectos\Sales\Sales\Sales.WEB\obj\Debug\net8.0\refint\Sales.WEB.dll
 D:\Proyectos\Sales\Sales\Sales.WEB\obj\Debug\net8.0\Sales.WEB.pdb
 D:\Proyectos\Sales\Sales\Sales.WEB\obj\Debug\net8.0\ref\Sales.WEB.dll
+D:\Proyectos\Sales\Sales\Sales.WEB\bin\Debug\net8.0\wwwroot\_framework\Sales.Shared.pdb
+D:\Proyectos\Sales\Sales\Sales.WEB\bin\Debug\net8.0\wwwroot\_framework\Sales.Shared.wasm
+D:\Proyectos\Sales\Sales\Sales.WEB\bin\Debug\net8.0\wwwroot\_framework\Sales.Shared.wasm.gz
+D:\Proyectos\Sales\Sales\Sales.WEB\bin\Debug\net8.0\wwwroot\_framework\Sales.Shared.pdb.gz
+D:\Proyectos\Sales\Sales\Sales.WEB\bin\Debug\net8.0\Sales.Shared.dll
+D:\Proyectos\Sales\Sales\Sales.WEB\bin\Debug\net8.0\Sales.Shared.pdb
+D:\Proyectos\Sales\Sales\Sales.WEB\obj\Debug\net8.0\Sales.WEB.sourcelink.json
+D:\Proyectos\Sales\Sales\Sales.WEB\obj\Debug\net8.0\webcil\Sales.Shared.wasm
+D:\Proyectos\Sales\Sales\Sales.WEB\obj\Debug\net8.0\compressed\2c6x6tdpr7.gz
+D:\Proyectos\Sales\Sales\Sales.WEB\obj\Debug\net8.0\compressed\bvhqg9v40l.gz
