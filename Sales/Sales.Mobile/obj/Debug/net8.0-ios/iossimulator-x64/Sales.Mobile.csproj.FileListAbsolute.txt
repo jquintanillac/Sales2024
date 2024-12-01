@@ -311,3 +311,4 @@ D:\Proyectos\Sales\Sales\Sales.Mobile\obj\Debug\net8.0-ios\iossimulator-x64\refi
 D:\Proyectos\Sales\Sales\Sales.Mobile\obj\Debug\net8.0-ios\iossimulator-x64\Sales.Mobile.pdb
 D:\Proyectos\Sales\Sales\Sales.Mobile\obj\Debug\net8.0-ios\iossimulator-x64\Sales.Mobile.genruntimeconfig.cache
 D:\Proyectos\Sales\Sales\Sales.Mobile\obj\Debug\net8.0-ios\iossimulator-x64\ref\Sales.Mobile.dll
+D:\Proyectos\Sales\Sales\Sales.Mobile\obj\Debug\net8.0-ios\iossimulator-x64\Sales.Mobile.sourcelink.json

@@ -177,3 +177,4 @@ D:\Proyectos\Sales\Sales\Sales.Mobile\obj\Debug\net8.0-windows10.0.19041.0\win10
 D:\Proyectos\Sales\Sales\Sales.Mobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 D:\Proyectos\Sales\Sales\Sales.Mobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 D:\Proyectos\Sales\Sales\Sales.Mobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+D:\Proyectos\Sales\Sales\Sales.Mobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Sales.Mobile.sourcelink.json

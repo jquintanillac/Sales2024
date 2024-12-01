@@ -9,3 +9,4 @@ D:\Proyectos\Sales\Sales\Sales.Shared\obj\Debug\net8.0\Sales.Shared.dll
 D:\Proyectos\Sales\Sales\Sales.Shared\obj\Debug\net8.0\refint\Sales.Shared.dll
 D:\Proyectos\Sales\Sales\Sales.Shared\obj\Debug\net8.0\Sales.Shared.pdb
 D:\Proyectos\Sales\Sales\Sales.Shared\obj\Debug\net8.0\ref\Sales.Shared.dll
+D:\Proyectos\Sales\Sales\Sales.Shared\obj\Debug\net8.0\Sales.Shared.sourcelink.json

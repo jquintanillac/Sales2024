@@ -1072,3 +1072,4 @@ D:\Proyectos\Sales\Sales\Sales.Mobile\obj\Debug\net8.0-android\stamp\_ConvertRes
 D:\Proyectos\Sales\Sales\Sales.Mobile\obj\Debug\net8.0-android\stamp\_GenerateJavaStubs.stamp
 D:\Proyectos\Sales\Sales\Sales.Mobile\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 D:\Proyectos\Sales\Sales\Sales.Mobile\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
+D:\Proyectos\Sales\Sales\Sales.Mobile\obj\Debug\net8.0-android\Sales.Mobile.sourcelink.json
