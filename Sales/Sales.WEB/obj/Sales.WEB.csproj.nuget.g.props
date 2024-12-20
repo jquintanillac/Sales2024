@@ -17,6 +17,7 @@
     <Import Project="$(NuGetPackageRoot)microsoft.net.sdk.webassembly.pack\8.0.10\build\Microsoft.NET.Sdk.WebAssembly.Pack.props" Condition="Exists('$(NuGetPackageRoot)microsoft.net.sdk.webassembly.pack\8.0.10\build\Microsoft.NET.Sdk.WebAssembly.Pack.props')" />
     <Import Project="$(NuGetPackageRoot)microsoft.net.illink.tasks\8.0.10\build\Microsoft.NET.ILLink.Tasks.props" Condition="Exists('$(NuGetPackageRoot)microsoft.net.illink.tasks\8.0.10\build\Microsoft.NET.ILLink.Tasks.props')" />
     <Import Project="$(NuGetPackageRoot)microsoft.aspnetcore.components.webassembly\8.0.10\build\net8.0\Microsoft.AspNetCore.Components.WebAssembly.props" Condition="Exists('$(NuGetPackageRoot)microsoft.aspnetcore.components.webassembly\8.0.10\build\net8.0\Microsoft.AspNetCore.Components.WebAssembly.props')" />
+    <Import Project="$(NuGetPackageRoot)currietechnologies.razor.sweetalert2\5.6.0\buildTransitive\CurrieTechnologies.Razor.SweetAlert2.props" Condition="Exists('$(NuGetPackageRoot)currietechnologies.razor.sweetalert2\5.6.0\buildTransitive\CurrieTechnologies.Razor.SweetAlert2.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgMicrosoft_NET_Sdk_WebAssembly_Pack Condition=" '$(PkgMicrosoft_NET_Sdk_WebAssembly_Pack)' == '' ">C:\Users\jquin\.nuget\packages\microsoft.net.sdk.webassembly.pack\8.0.10</PkgMicrosoft_NET_Sdk_WebAssembly_Pack>

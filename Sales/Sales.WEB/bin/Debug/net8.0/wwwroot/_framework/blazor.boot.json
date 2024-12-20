@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Sales.WEB",
   "resources": {
-    "hash": "sha256-/N2FyDbzXVTnDKFfWZw36kQq2bhTuO1qtNYgrfFiktY=",
+    "hash": "sha256-t5JokioS+ggNQ4Wt1ZfZPgytVhxKdr97j/GZA7vkEcU=",
     "jsModuleNative": {
       "dotnet.native.8.0.10.qtxxoool4u.js": "sha256-QVxMlY7ohmjgde/bZMA0dlWDAeuUP+tEfkiSdg4DFcE="
     },
@@ -17,6 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
+      "CurrieTechnologies.Razor.SweetAlert2.wasm": "sha256-n6ubE26hJennNg6Gc9pr3BUMAuIS7CU4C94k2cw++m8=",
       "Microsoft.AspNetCore.Authorization.wasm": "sha256-qvUVaVXCx0vIwC1ftYywcGopJB8y43BbfcCt3G9PQgM=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-xr0Ov2b8dQS8xDDq0cDAHAiTk03Nhy7Nb/TaMeGY25U=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-xdmm/nojXhCuTTDwhSWKmv9GQ/HGjW58Sxp2/m3FH8w=",
@@ -208,12 +209,12 @@
       "mscorlib.wasm": "sha256-KvqZaNpjwhrOuzE4b4aMFsI+VUTyiWfoDI4zn4l9BM8=",
       "netstandard.wasm": "sha256-v+s7sWxtOM6bnOvC0jFrtnm6uMfbDymwl2nHNgbS2LM=",
       "System.Private.CoreLib.wasm": "sha256-pklll63uFQoY6vaD3vbluS9osYiJWLLLmob1yHFgepI=",
-      "Sales.Shared.wasm": "sha256-UViXGoQ6+gMo00Y6i5HWDvMaZgUGNbEOprf8XxdtbPc=",
-      "Sales.WEB.wasm": "sha256-n9ilvMqixmxYouyQEcAPPv1LZADEVftexI8SD5Vt2Kw="
+      "Sales.Shared.wasm": "sha256-jBW/OhkGGXu5zcZU+aunsx8UptiZ/sNbRZosY/tq+cU=",
+      "Sales.WEB.wasm": "sha256-KdJzBpniTXlFrfPWtmQKjCZp2nVPYws4uOuOa60a5Hs="
     },
     "pdb": {
-      "Sales.Shared.pdb": "sha256-nz5LDk2wTBb/pmOYSDoAbwE8PIALnWANmJfSKtsAY0o=",
-      "Sales.WEB.pdb": "sha256-yzOgVrKZOQDvfjcAdqVnz4g6bUNiTkkOGn/eCRTI6EE="
+      "Sales.Shared.pdb": "sha256-srUJiidiby4v6dCpzCHVrku45oNiPfitJE8CtqhtFFE=",
+      "Sales.WEB.pdb": "sha256-YI2CIstEAxdlnOj8FwOEleez7FmCbM7yaSf1T4PVbWQ="
     }
   },
   "cacheBootResources": true,

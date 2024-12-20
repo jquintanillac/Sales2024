@@ -1043,3 +1043,8 @@ D:\Proyectos\Sales\Sales\Sales.WEB\obj\Debug\net8.0\Sales.WEB.sourcelink.json
 D:\Proyectos\Sales\Sales\Sales.WEB\obj\Debug\net8.0\webcil\Sales.Shared.wasm
 D:\Proyectos\Sales\Sales\Sales.WEB\obj\Debug\net8.0\compressed\2c6x6tdpr7.gz
 D:\Proyectos\Sales\Sales\Sales.WEB\obj\Debug\net8.0\compressed\bvhqg9v40l.gz
+D:\Proyectos\Sales\Sales\Sales.WEB\bin\Debug\net8.0\wwwroot\_framework\CurrieTechnologies.Razor.SweetAlert2.wasm
+D:\Proyectos\Sales\Sales\Sales.WEB\bin\Debug\net8.0\wwwroot\_framework\CurrieTechnologies.Razor.SweetAlert2.wasm.gz
+D:\Proyectos\Sales\Sales\Sales.WEB\bin\Debug\net8.0\CurrieTechnologies.Razor.SweetAlert2.dll
+D:\Proyectos\Sales\Sales\Sales.WEB\obj\Debug\net8.0\webcil\CurrieTechnologies.Razor.SweetAlert2.wasm
+D:\Proyectos\Sales\Sales\Sales.WEB\obj\Debug\net8.0\compressed\i944gt0bud.gz

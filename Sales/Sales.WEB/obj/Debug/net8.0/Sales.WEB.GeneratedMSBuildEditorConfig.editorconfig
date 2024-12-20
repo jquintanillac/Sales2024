@@ -26,12 +26,44 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Proyectos/Sales/Sales/Sales.WEB/Layout/GenericList.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEdlbmVyaWNMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Proyectos/Sales/Sales/Sales.WEB/Pages/Categories/CategoriesCreate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xDYXRlZ29yaWVzQ3JlYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Proyectos/Sales/Sales/Sales.WEB/Pages/Categories/CategoriesEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xDYXRlZ29yaWVzRWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Proyectos/Sales/Sales/Sales.WEB/Pages/Categories/CategoriesForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xDYXRlZ29yaWVzRm9ybS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Proyectos/Sales/Sales/Sales.WEB/Pages/Categories/CategoriesIndex.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xDYXRlZ29yaWVzSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Proyectos/Sales/Sales/Sales.WEB/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Proyectos/Sales/Sales/Sales.WEB/Pages/Countries/CountriesCreate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRyaWVzXENvdW50cmllc0NyZWF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Proyectos/Sales/Sales/Sales.WEB/Pages/Countries/CountriesForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRyaWVzXENvdW50cmllc0Zvcm0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Proyectos/Sales/Sales/Sales.WEB/Pages/Countries/CountriesIndex.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRyaWVzXENvdW50cmllc0luZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Proyectos/Sales/Sales/Sales.WEB/Pages/Countries/CountryEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRyaWVzXENvdW50cnlFZGl0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Proyectos/Sales/Sales/Sales.WEB/Pages/Home.razor]
